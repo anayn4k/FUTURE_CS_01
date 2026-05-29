@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a passive, read-only vulnerability assessment 
 conducted on demo.testfire.net as part of a cybersecurity internship 
-project with Future Interns (2026).
+project.
 
 The goal was to identify common security weaknesses on a public-facing 
 website and present findings in a professional, business-ready report.
